@@ -1,5 +1,5 @@
-setwd("D:/Programming/R/StepikАнализДанныхR/")
-main = read.csv("D:/Programming/R/StepikАнализДанныхR/coordinates.csv")
+setwd("D:/Programming/R/")
+main = read.csv("coordinates.csv")
 view(main)
 
 library(tidygeocoder)
